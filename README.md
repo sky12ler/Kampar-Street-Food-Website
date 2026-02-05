@@ -2,7 +2,7 @@
 
 A web application that introduces and promotes street food in Kampar, helping users discover local food spots, explore food options, and easily navigate to popular eateries around the area.
 
-🔗 Live Demo: https://street-food-kampar-newest.vercel.app/
+🔗 Website Link: https://street-food-kampar-newest.vercel.app/
 
 📌 Project Overview
 
