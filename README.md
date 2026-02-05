@@ -1,14 +1,13 @@
 🍜 Kampar Street Food Web
 
-A web application that introduces and promotes street food in Kampar, helping users discover local food spots and explore popular food choices around the area.
+A web application that introduces and promotes street food in Kampar, helping users discover local food spots, explore food options, and easily navigate to popular eateries around the area.
 
 🔗 Live Demo: https://street-food-kampar-newest.vercel.app/
 
 📌 Project Overview
 
-Kampar Street Food Web is a simple and user-friendly website designed to showcase local street food vendors in Kampar. The goal of this project is to make local food discovery easier for students, residents, and visitors while promoting local food culture through a digital platform.
+Kampar Street Food Web is a user-friendly website designed to showcase local street food vendors in Kampar. The project aims to make food discovery easier for students, residents, and visitors while promoting local food culture through a simple and accessible digital platform.
 
-This project focuses on building a clean and practical web solution using fundamental web technologies without relying on frameworks.
 
 ✨ Features
 
@@ -16,11 +15,19 @@ This project focuses on building a clean and practical web solution using fundam
 
 📍 View food details and locations
 
-🔎 Simple and intuitive navigation
+🗂️ Food category filtering
+
+⭐ User reviews and ratings
+
+🗺️ Map integration for navigation
+
+📝 Vendor submission feature
+
+⚙️ Admin management functionality
 
 📱 Responsive design for desktop and mobile users
 
-⚡ Fast deployment using Vercel
+⚡ Deployed on Vercel for fast access
 
 🛠️ Tech Stack
 
@@ -36,20 +43,6 @@ Deployment: Vercel
 
 Promote local street food businesses in Kampar
 
-Practice core web development fundamentals
+Practice fundamental web development without frameworks
 
-Strengthen UI/UX design and frontend development skills
-
-Build a practical portfolio project with real-world context
-
-🚀 Future Improvements
-
-User reviews and ratings
-
-Food category filtering
-
-Map integration for navigation
-
-Vendor submission feature
-
-Admin management dashboard
+Improve UI/UX and frontend development skills
